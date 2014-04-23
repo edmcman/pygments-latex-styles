@@ -1,3 +1,8 @@
+pygments-latex-styles
+=====================
+
+Demonstrate various styles of highlighting source code in LaTeX using pygments
+
 `gen.bash` is a script that will syntax highlight two source code
 files using `pygmentize` and display it in the LaTeX document
 `pygment-styles.pdf` using every possible style in `pygmentize`.  You can use
